@@ -24,4 +24,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=kimkimjunjun&show_icons=true&theme=radical" alt="kimkimjunjun's GitHub stats" />
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=acbcff&height=200&section=footer)
