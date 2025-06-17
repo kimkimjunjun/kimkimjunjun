@@ -20,10 +20,6 @@
 
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkimjunjun&langs_count=10&layout=compact&theme=dark)](https://github.com/kimkimjunjun/kimkimjunjun)
 
-## Boj Stats
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgnl323)](https://solved.ac/wnsgnl323/)
-
 ## Github Stats
 <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=kimkimjunjun&show_icons=true&theme=radical" alt="kimkimjunjun's GitHub stats" />
